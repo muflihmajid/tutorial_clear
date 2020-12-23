@@ -1,4 +1,4 @@
-# Attendance Mobile
+# Attendance Mobile Tutorial
 
 A new Flutter project.
 
